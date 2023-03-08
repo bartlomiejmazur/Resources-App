@@ -1,4 +1,4 @@
-# Create, Read, Update, Delete - App
+# Resources - App
 
 A simple application for adding and deleting a list of resource sources.
 
